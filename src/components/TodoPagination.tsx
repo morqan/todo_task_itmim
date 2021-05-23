@@ -1,5 +1,4 @@
 import React from 'react';
-import {useTypedSelector} from "../hooks/useTypedSelector";
 import {useActions} from "../hooks/useAction";
 interface TodoPaginationProps {
     page: number

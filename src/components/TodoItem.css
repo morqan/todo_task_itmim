@@ -1,0 +1,20 @@
+.todoItem {
+    width: 35rem;
+    margin: auto;
+}
+
+.todoItemSearch {
+    width: -webkit-fill-available;
+    padding: 10px;
+}
+
+.todoItemList {
+    list-style: none;
+    padding-left: 1rem;
+    font-size: 1.2rem;
+}
+
+.todoItemTitle {
+    text-decoration-line: underline line-through;
+    text-decoration-color: red;
+}
